@@ -1,6 +1,6 @@
 # House Price Prediction – Advanced Regression Techniques
 
-This repository contains a complete machine learning pipeline for predicting house sale prices using the [Kaggle House Prices dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview). The goal is to build a well-generalized regression model that incorporates structured data preprocessing, regularization, and ensemble learning.
+This repository contains a complete Machine Learning pipeline for predicting House Sale Prices using the [Kaggle House Prices dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview). The goal is to build a well-generalized regression model that incorporates structured data preprocessing, regularization, and ensemble learning.
 
 The project includes all major stages of applied machine learning: data cleaning, feature engineering, model comparison, hyperparameter tuning, and performance evaluation.
 
